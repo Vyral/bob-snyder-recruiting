@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twin Cities's Best Real Estate Training</title>
+    <title>Twin Cities's Best Real Estate Training - Bob Snyder</title>
     <description>Bob Snyder, a top Real Estate Agent in Twin Cities, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Oct 2019 15:54:47 -0500</pubDate>
-    <lastBuildDate>Tue, 01 Oct 2019 15:54:47 -0500</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2020 16:30:58 -0600</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2020 16:30:58 -0600</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>

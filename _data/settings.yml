@@ -6,9 +6,11 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url: http://thesnyderteam.eventbrite.com/
   - title: Free Strategy Call
     url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe/
 client:
   name: Bob Snyder
   title:

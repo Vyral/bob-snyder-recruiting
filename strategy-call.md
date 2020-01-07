@@ -20,7 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<p>My name is Lori Gabriel with Team Gabriel and we’ve sold thousands of homes. </p>
+<p>My name is Bob Snyder with The Snyder Team, and we’ve sold thousands of homes. </p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -39,14 +39,14 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote">It has motivated me for having successful transactions to customers and getting new clients. They have taught me what I didn’t know before as a realtor.  - I couldn’t have survived in real estate in the North East without Team Gabriel. It has been the biggest confidence booster.</span><br>
-<span class="author">- Linda</span></p>
+<p><span class="quote">"The Snyder Team allowed me to resurrect my real estate business after being absent for a couple of years. Thanks to their systems and training I am back in the game!"</span><br>
+<span class="author">- Gwendolyn Marty</span></p>
 
-<p><span class="quote">Coming into Real Estate as a Brand-New Agent; Team Gabriel afforded me the opportunity to truly learn the process from start to finish. We are provided continuous opportunities to learn and grow as individual agents, as well as a Team.</span><br>
-<span class="author">- Jillian</span></p>
+<p><span class="quote">"The Snyder Team compared to my previous team treats me like a business partner versus a junior agent which I really appreciate!"</span><br>
+<span class="author">- Claire Bluhm</span></p>
 
-<p><span class="quote">I appreciate the time and devotion Lori provides to our Team. We are constantly learning and growing with new techniques. She is always motivating and helping us pursue our goals.</span><br>
-<span class="author">- Nicole</span></p>
+<p><span class="quote">"The Snyder Team invests in infrastructure for lead generation and lead incubation which I really like as it keeps me organized!"</span><br>
+<span class="author">- Samuel Boatman</span></p>
 </div>
 <hr>
 
@@ -54,7 +54,7 @@ permalink: /strategy-call/
 
 <p>Why am I offering this?</p>
 
-<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team/brokerage.</p>
+<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team and/or our brokerage.</p>
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
@@ -68,7 +68,10 @@ permalink: /strategy-call/
 
 <p>Sincerely,</p>
 
-<p>Lori Gabriel</p>
+<p>Bob Snyder<br>
+Team Leader<br>
+The Snyder Team brokered by eXp Realty</p>
+
 
 
 
